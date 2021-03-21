@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+My name is <b>Jair Lopes Junior</b>, I am a back-end developer man_technologist I love to program and study constantly.
 
 <!--
 **JairLopesJunior/JairLopesJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
