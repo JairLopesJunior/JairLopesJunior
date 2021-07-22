@@ -14,4 +14,4 @@ My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to progra
 
 - 💬 Fascinated by the technology area, I chose to turn an inspiration into my profession. I finished the course of Internet Systems at the Faculty of - Technology of ARARAS, I had the opportunity to apply theoretical knowledge in the IT area by interning in a company in the segment since 2018 and I was currently hired as a Java Junior Programmer. I have knowledge in the languages ​​JAVA, HTML, PHP, JavaScript and CSS which I intend to improve myself, always studying. I am starting my professional career and I have been trying to learn constantly, through the exchange of expertise with my professional colleagues.
 
-- 📫 How to reach me: Site: <a href="http://jairlopesjr.000webhostapp.com/">Jair Lopes Junior</a>, Email: jair.lopes@fatec.sp.gov.br.
+- 📫 How to reach me: Email: jair.lopes@fatec.sp.gov.br.
