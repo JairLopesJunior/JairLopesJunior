@@ -15,3 +15,18 @@ My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to progra
 - 💬 Fascinated by the technology area, I chose to turn an inspiration into my profession. I finished the course of Internet Systems at the Faculty of - Technology of ARARAS, I had the opportunity to apply theoretical knowledge in the IT area by interning in a company in the segment since 2018 and I was currently hired as a Java Junior Programmer. I have knowledge in the languages ​​JAVA, HTML, PHP, JavaScript and CSS which I intend to improve myself, always studying. I am starting my professional career and I have been trying to learn constantly, through the exchange of expertise with my professional colleagues.
 
 - 📫 How to reach me: Email: jair.lopes@fatec.sp.gov.br.
+
+#### Conhecimento nas linguagens:
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+
+#### Conhecimento nas tecnologias:
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
+<!-- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3) -->
+<!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
+ -->
