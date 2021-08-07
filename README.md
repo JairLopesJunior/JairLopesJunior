@@ -14,11 +14,11 @@ My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to progra
 
 - 📫 How to reach me: Email: jair.lopes@fatec.sp.gov.br.
 
-#### Conhecimento nas linguagens:
+#### knowledge in languages:
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-#### Conhecimento nas tecnologias:
+#### Knowledge in technologies:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
