@@ -10,8 +10,6 @@ My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to progra
 
 - 🌱 I am currently learning a Spring project, called Spring Boot, and in parallel Java Script.
 
-- 👯 I am looking to collaborate with the IT area, indicating to friends that it is a great area to start a career.
-
 - 💬 Fascinated by the technology area, I chose to turn an inspiration into my profession. I finished the course of Internet Systems at the Faculty of - Technology of ARARAS, I had the opportunity to apply theoretical knowledge in the IT area by interning in a company in the segment since 2018 and I was currently hired as a Java Junior Programmer. I am starting my professional career and I have been trying to learn constantly, through the exchange of expertise with my professional colleagues.
 
 - 📫 How to reach me: Email: jair.lopes@fatec.sp.gov.br.
@@ -27,7 +25,8 @@ My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to progra
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
-<!-- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3) -->
-<!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
- -->
+
+<img align= "right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimendes&layout=compact&theme=vision-friendly-dark" />
+<img align= "left" width="400px" src="https://github-readme-stats.vercel.app/api?username=thimendes&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
+![Snake animation](https://github.com/thimendes/thimendes/blob/output/github-contribution-grid-snake.svg)
