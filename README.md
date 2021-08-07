@@ -26,7 +26,5 @@ My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to progra
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-<img align= "right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimendes&layout=compact&theme=vision-friendly-dark" />
-<img align= "left" width="400px" src="https://github-readme-stats.vercel.app/api?username=thimendes&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-
-![Snake animation](https://github.com/thimendes/thimendes/blob/output/github-contribution-grid-snake.svg)
+<img align= "right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairLopesJunior&layout=compact&theme=vision-friendly-dark" />
+<img align= "left" width="400px" src="https://github-readme-stats.vercel.app/api?username=JairLopesJunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
