@@ -6,11 +6,11 @@
 
 My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to program and study constantly.
 
-- 🔭 I'm currently working at the company VARITUS Brasil, which is responsible for one of the Tax Document Issuing Systems.
+- 🔭 I currently work at VR Software, which provides complete and efficient management solutions for retailers.
 
-- 🌱 I am currently learning a Spring project, called Spring Boot, and in parallel Java Script.
+- 🌱 I'm currently learning Angular, TypeScript, Node, TypeORM and NestJS.
 
-- 💬 Fascinated by the technology area, I chose to turn an inspiration into my profession. I finished the course of Internet Systems at the Faculty of - Technology of ARARAS, I had the opportunity to apply theoretical knowledge in the IT area by interning in a company in the segment since 2018 and I was currently hired as a Java Junior Programmer. I am starting my professional career and I have been trying to learn constantly, through the exchange of expertise with my professional colleagues.
+- 💬 Fascinated by the technology area, I chose to transform an inspiration into my profession. I completed the Internet Systems course at the Faculty of Technology at ARARAS, I had the opportunity to apply theoretical and practical knowledge in the IT field as an intern at VARITUS BRASIL (Fiscal segment company) since 2018 and later I was hired as a Junior Java Programmer. I currently work at VR Software, a retail company, working with Angular, Node, TypeScript, TypeORM and NestJS.
 
 - 📫 How to reach me: Email: jair.lopes@fatec.sp.gov.br.
 
