@@ -4,7 +4,7 @@
 
 ### About me
 
-My name is <b>Jair Lopes Junior</b>, I am a back-end developer. I love to program and study constantly.
+My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and study constantly.
 
 - 🔭 I currently work at VR Software, which provides complete and efficient management solutions for retailers.
 
