@@ -26,5 +26,5 @@ My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and stu
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-![JairLopesJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=JairLopesJunior&layout=compact&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairLopesJunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark)](https://github.com/JairLopesJunior)
+![JairLopesJunior GitHub stats alt-text-1](https://github-readme-stats.vercel.app/api?username=JairLopesJunior&layout=compact&theme=vision-friendly-dark)
+[![Top Langs alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=JairLopesJunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark)](https://github.com/JairLopesJunior)
