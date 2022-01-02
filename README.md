@@ -32,3 +32,9 @@ My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and stu
 
 ![JairLopesJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=JairLopesJunior&layout=compact&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairLopesJunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark)](https://github.com/JairLopesJunior)
+
+<div align="right">
+  
+![](https://komarev.com/ghpvc/?username=JairLopesJunior&label=visitors&color=5E4429)
+
+</div>
