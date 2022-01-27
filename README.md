@@ -33,6 +33,25 @@ My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and stu
 ![JairLopesJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=JairLopesJunior&layout=compact&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairLopesJunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark)](https://github.com/JairLopesJunior)
 
+<details title="Lucas Magalhães's Trophies">
+    <br />
+    <summary align="left">
+      <strong>
+        <i>
+          Jair Lopes Junior
+        </i>
+      </strong>
+      🏆
+    </summary>
+    <p align="center">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=JairLopesJunior&column=4&theme=vision-friendly-dark&margin-w=4&&margin-h=4&no-frame=true" 
+             width="60%"
+             title="Jair Lopes Junior"
+        />
+    </p>
+</details>
+
 <div align="right">
 
 ![](https://img.shields.io/github/issues/JairLopesJunior/JairLopesJunior?style=flat&color=5E4429)
