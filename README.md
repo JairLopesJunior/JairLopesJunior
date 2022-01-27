@@ -30,8 +30,12 @@ My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and stu
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
 
+<div>
+    
 ![JairLopesJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=JairLopesJunior&layout=compact&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairLopesJunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark)](https://github.com/JairLopesJunior)
+    
+</div>
 
 <details title="Lucas Magalhães's Trophies">
     <br />
