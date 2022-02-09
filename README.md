@@ -37,7 +37,7 @@ My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and stu
   </a>
 </div>
 
-<details title="Lucas Magalhães's Trophies">
+<details title="Jair Lopes Junior Trophies">
     <br />
     <summary align="left">
       <strong>
