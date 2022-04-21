@@ -6,11 +6,11 @@
 
 My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and study constantly.
 
-- 🔭 I currently work at VR Software, which provides complete and efficient management solutions for retailers.
+- 🔭 I currently work at Elotech, which offers complete and efficient solutions for public management.
 
-- 🌱 I'm currently learning Angular, TypeScript, Node, TypeORM and NestJS.
+- 🌱 I'm currently learning Angular, Java, Spring and Relational Database.
 
-- 💬 Fascinated by the technology area, I chose to transform an inspiration into my profession. I completed the Internet Systems course at the Faculty of Technology at ARARAS, I had the opportunity to apply theoretical and practical knowledge in the IT field as an intern at VARITUS BRASIL (Fiscal segment company) since 2018 and later I was hired as a Junior Java Programmer. I currently work at VR Software, a retail company, working with Angular, Node, TypeScript, TypeORM and NestJS.
+- 💬 Fascinated by the technology area, I chose to transform an inspiration into my profession. I completed the Sistemas para Internet course at the Faculty of Technology at ARARAS and i'm currently studying Desenvolvimento de Software Multiplataforma, I had the opportunity to apply theoretical and practical knowledge in the IT field as an intern at VARITUS BRASIL (Fiscal segment company) since 2018 and later I was hired as a Junior Java Programmer and worked at VR Software, a retail company, working with Angular, Node, TypeScript, TypeORM and NestJS.
 
 - 📫 How to reach me: Email: jair.lopes@fatec.sp.gov.br.
 
