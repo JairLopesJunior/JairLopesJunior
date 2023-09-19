@@ -6,7 +6,7 @@
 
 My name is <b>Jair Lopes Junior</b>, I am a developer. I love to program and study constantly.
 
-- 🔭 I currently work at Elotech, which offers complete and efficient solutions for public management.
+- 🔭 I currently work at Cognizant, which offers complete and efficient solutions for public management.
 
 - 🌱 I'm currently learning Angular, Java, Spring and Relational Database.
 
